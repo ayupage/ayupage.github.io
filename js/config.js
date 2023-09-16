@@ -32,7 +32,7 @@ const CONFIG = {
       search: '/results?search_query={}',
       color: 'linear-gradient(135deg, #cd201f, #cd4c1f)',
       icon: 'youtube',
-      quickLaunch: false,
+      quickLaunch: true,
     },
 
     {
@@ -53,6 +53,15 @@ const CONFIG = {
       color: 'linear-gradient(135deg, #1DA1F2, #19608F)',
       icon: 'twitter',
       quickLaunch: true,
+    },
+    {
+      category: 'Social',
+      name: 'TikTok',
+      key: 'tk',
+      url: 'https://www.tiktok.com',
+      color: 'linear-gradient(135deg, #2e2e2e, #231e22)',
+      icon: 'tiktok',
+      quickLaunch: false,
     },
 
 
