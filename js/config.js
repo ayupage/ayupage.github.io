@@ -32,7 +32,7 @@ const CONFIG = {
       search: '/results?search_query={}',
       color: 'linear-gradient(135deg, #cd201f, #cd4c1f)',
       icon: 'youtube',
-      quickLaunch: true,
+      quickLaunch: false,
     },
 
     {
